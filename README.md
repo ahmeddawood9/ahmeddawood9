@@ -1,9 +1,10 @@
-# Hi, I'm Dawood 👋
+# Hi, I'm Dawood 
 
-**Computer Science Student • FAST (6th Semester)**
+**Computer Science Student (6th Semester)** at **FAST**
 
-I work with **FastAPI**, **PostgreSQL**, **SQLAlchemy**, **authentication systems**, and **cloud platforms**.  
-My main focus is **backend engineering**, **Linux**, and building solid, maintainable software with an open-source mindset.
+I am currently focused on backend development using **FastAPI**, **PostgreSQL**, and **SQLAlchemy**, along with learning **authentication systems** and **cloud fundamentals**.
+
+My interests lie in **backend engineering**, **system design fundamentals**, and working with **Linux** in an open-source environment.
 
 ---
 
@@ -34,5 +35,3 @@ My main focus is **backend engineering**, **Linux**, and building solid, maintai
 - Open to collaborations, internships, and feedback on projects
 
 ---
-
-![Snake Animation](https://github.com/Platane/snk/generated/matrix.svg)
