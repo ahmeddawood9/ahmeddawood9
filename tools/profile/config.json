@@ -1,11 +1,11 @@
 {
   "github_user": "ahmeddawood9",
   "name": "DAWOOD",
-  "node_label": "dawood@fast-nuces",
+  "node_label": "dawood@infra",
   "intro": [
     "backend engineer who runs his own infrastructure",
-    "linux, systemd, docker, aws, terraform",
-    "cs @ fast-nuces, hyderabad pk, graduating jul 2027"
+    "ships services end to end: api, container, pipeline, host",
+    "writes about what breaks and why"
   ],
   "links": [
     {
@@ -30,18 +30,23 @@
   "stack": [
     {
       "state": "active",
-      "unit": "backend.service",
-      "detail": "fastapi, spring boot, rest"
+      "unit": "api.service",
+      "detail": "java, spring boot, fastapi"
+    },
+    {
+      "state": "active",
+      "unit": "data.service",
+      "detail": "postgresql"
     },
     {
       "state": "active",
       "unit": "container.service",
-      "detail": "docker, compose"
+      "detail": "docker"
     },
     {
       "state": "active",
-      "unit": "observability.service",
-      "detail": "prometheus, grafana"
+      "unit": "host.service",
+      "detail": "linux, nginx"
     },
     {
       "state": "active",
@@ -51,12 +56,17 @@
     {
       "state": "starting",
       "unit": "iac.service",
-      "detail": "terraform, ansible"
+      "detail": "terraform"
+    },
+    {
+      "state": "starting",
+      "unit": "observability.service",
+      "detail": "prometheus, grafana"
     },
     {
       "state": "queued",
       "unit": "orchestration.service",
-      "detail": "kubernetes, helm"
+      "detail": "kubernetes"
     }
   ],
   "theme": {

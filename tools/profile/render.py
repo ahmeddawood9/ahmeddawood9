@@ -272,7 +272,7 @@ def stats_panel(s):
 
 
 def stack_panel():
-    c = Canvas(W, 280, extra_css=PULSE)
+    c = Canvas(W, 360, extra_css=PULSE)
     c.prompt(PAD, 50, "systemctl status stack")
 
     look = {
@@ -301,7 +301,7 @@ def footer(stats):
     c = Canvas(W, 80, bottom=True)
     c.line(0, .5, W, .5, T["rail"], op=.5)
     c.prompt(PAD, 46, "exit")
-    c.text(W - PAD, 46, f'member since {stats["since"].split(" (")[0].lower()}, rebuilt nightly',
+    c.text(W - PAD, 46, 'rebuilt nightly',
            11, 400, T["muted"], op=.65, anchor="end")
     return c
 
