@@ -1,0 +1,40 @@
+{
+  "stars": 0,
+  "forks": 0,
+  "repos": 16,
+  "followers": 5,
+  "prs": 0,
+  "merged": 0,
+  "this_year": 367,
+  "all_time": 379,
+  "streak": 6,
+  "longest": 15,
+  "since": "Oct 2023 (2y)",
+  "languages": [
+    [
+      "C",
+      47.7
+    ],
+    [
+      "Makefile",
+      15.7
+    ],
+    [
+      "Perl",
+      9.3
+    ],
+    [
+      "Python",
+      8.6
+    ],
+    [
+      "Shell",
+      3.3
+    ],
+    [
+      "Other",
+      15.4
+    ]
+  ],
+  "synced": "2026-10-06"
+}

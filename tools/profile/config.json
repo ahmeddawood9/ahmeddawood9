@@ -1,0 +1,73 @@
+{
+  "github_user": "ahmeddawood9",
+  "name": "DAWOOD",
+  "node_label": "dawood@fast-nuces",
+  "intro": [
+    "backend engineer who runs his own infrastructure",
+    "linux, systemd, docker, aws, terraform",
+    "cs @ fast-nuces, hyderabad pk, graduating jul 2027"
+  ],
+  "links": [
+    {
+      "mark": "in",
+      "label": "linkedin",
+      "handle": "/in/ahmed-dawood-a42aa8279",
+      "url": "https://linkedin.com/in/ahmed-dawood-a42aa8279"
+    },
+    {
+      "mark": "gh",
+      "label": "github",
+      "handle": "@ahmeddawood9",
+      "url": "https://github.com/ahmeddawood9"
+    },
+    {
+      "mark": "@",
+      "label": "email",
+      "handle": "dawoodsoomro56@gmail.com",
+      "url": "mailto:dawoodsoomro56@gmail.com"
+    }
+  ],
+  "stack": [
+    {
+      "state": "active",
+      "unit": "backend.service",
+      "detail": "fastapi, spring boot, rest"
+    },
+    {
+      "state": "active",
+      "unit": "container.service",
+      "detail": "docker, compose"
+    },
+    {
+      "state": "active",
+      "unit": "observability.service",
+      "detail": "prometheus, grafana"
+    },
+    {
+      "state": "active",
+      "unit": "cloud.service",
+      "detail": "aws"
+    },
+    {
+      "state": "starting",
+      "unit": "iac.service",
+      "detail": "terraform, ansible"
+    },
+    {
+      "state": "queued",
+      "unit": "orchestration.service",
+      "detail": "kubernetes, helm"
+    }
+  ],
+  "theme": {
+    "ink": "#0b0f14",
+    "panel": "#0f141b",
+    "rail": "#1d2731",
+    "grid": "#111820",
+    "muted": "#5c6b7a",
+    "body": "#b9c6d2",
+    "bright": "#e6edf3",
+    "signal": "#4ec9a5",
+    "amber": "#e3a33c"
+  }
+}
