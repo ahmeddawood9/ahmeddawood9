@@ -54,17 +54,17 @@
       "detail": "aws"
     },
     {
-      "state": "starting",
+      "state": "active",
       "unit": "iac.service",
       "detail": "terraform"
     },
     {
-      "state": "starting",
+      "state": "active",
       "unit": "observability.service",
       "detail": "prometheus, grafana"
     },
     {
-      "state": "queued",
+      "state": "active",
       "unit": "orchestration.service",
       "detail": "kubernetes"
     }
