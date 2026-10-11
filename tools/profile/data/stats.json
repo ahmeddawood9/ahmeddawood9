@@ -5,9 +5,9 @@
   "followers": 5,
   "prs": 0,
   "merged": 0,
-  "this_year": 387,
-  "all_time": 399,
-  "streak": 2,
+  "this_year": 394,
+  "all_time": 406,
+  "streak": 3,
   "longest": 15,
   "since": "Oct 2023 (3y)",
   "languages": [
@@ -29,12 +29,12 @@
     ],
     [
       "Shell",
-      3.3
+      3.4
     ],
     [
       "Other",
-      15.7
+      15.6
     ]
   ],
-  "synced": "2026-10-10"
+  "synced": "2026-10-11"
 }
